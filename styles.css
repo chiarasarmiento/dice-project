@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Cute Font', cursive;
+}
+body {
+  background-color: #a4def2;
+}
+h1 {
+  font-size: 8rem;
+  color: #041562;
+}
+h2{
+  font-size: 4rem;
+  color: #041562;
+}
+p {
+  font-size: 2rem;
+  color: #041562;
+}
+img {
+  width: 80%;
+}
+.container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header{
+  text-align: center;
+}
+.box {
+  margin: auto;
+  text-align: center;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+#button {
+  display: flex;
+  margin: 40px auto 0px auto;
+  padding: 10px;
+  background: #041562;
+  color: #fff;
+  border: 0px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: 'Cute Font', cursive;
+  font-size: 2rem;
+}
+footer {
+  width: 100%;
+  color: #041562;
+  text-align: center;
+  padding: 30px 0px;
+}
+ 
